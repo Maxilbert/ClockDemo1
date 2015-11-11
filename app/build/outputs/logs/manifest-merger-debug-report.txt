@@ -28,7 +28,7 @@ ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.
 		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:8:48-80
 	android:icon
 		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:8:18-47
-activity#custom.analog.clock.ShowClock1
+activity#custom.analog.clock.ShowClock
 ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:9:9-17:20
 	android:label
 		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:12:19-51
@@ -37,7 +37,7 @@ ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.
 	android:launchMode
 		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:11:9-44
 	android:name
-		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:9:19-45
+		ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:9:19-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/yuan/workspace/android/ClockDemo1/app/src/main/AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
